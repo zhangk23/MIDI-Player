@@ -2,7 +2,7 @@
 
 This demo aims to create sound and visual synchronization based on keyboard MIDI information. The piece chosen for this demo is La Campanella ("The little bell"), a piano etude composed by Franz Liszt in 1851 based on the theme from first movement of Niccolo Paganini's Violin Concerto No.2 in B minor.
 
-The following framework files provided by Professor Soji Yamakawa (Carnegie Mellon University) to be included for the demo to run:
+The following framework files are provided by Professor Soji Yamakawa (Carnegie Mellon University):
 - fssimplewindowcpp.cpp
 - fssimplewindow.h
 - fssimplewindowobjc.m
