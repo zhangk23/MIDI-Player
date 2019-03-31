@@ -19,5 +19,4 @@ Instructions:
 - No user interaction involved once the demo starts running.
 - Press ESC to quit the demo anytime.
 
-[![MIDI Player Demo](http://img.youtube.com/vi/T0KufTQXD_k/0.jpg)](http://www.youtube.com/watch?v=T0KufTQXD_k "MIDI Player Demo")
-
+[![MIDI Player - La Campanella](http://img.youtube.com/vi/cqnIJU_QJEE/0.jpg)](http://www.youtube.com/watch?v=cqnIJU_QJEE "MIDI Player - La Campanella")
